@@ -1,5 +1,19 @@
-# 💫 About Me:
-🔭 Currently working on: Building scalable web and mobile applications with modern frontend, backend, and AI-powered features.<br><br>👯 Looking to collaborate on: Open-source projects, AI-enhanced solutions, and cross-platform applications.<br><br>🤝 Seeking guidance in: Advanced full-stack development, AI integration, mobile app architecture, and cloud deployment strategies.<br><br>🌱 Currently learning: React, TypeScript, Node.js, AI/ML integration, Flutter, and API development for end-to-end solutions.<br><br>💬 Ask me about: Web development, mobile app development, AI integration, project optimization, and portfolio design.<br><br>⚡ Fun fact: I have developed multiple web and mobile projects and enjoy turning complex problems into elegant, functional, and AI-powered solutions.
+💫 **About Me**
+
+👩‍💻 **Software Engineering Student** focused on building practical, production-ready applications with **Python, FastAPI, Flask, React, and SQL**.
+
+🚀 **Currently building:** Full-stack applications, data analysis tools, automation systems, and ML-powered features.
+
+🛠️ **Tech I work with:** Python, FastAPI, Flask, React, Vite, Tailwind CSS, Pandas, NumPy, Matplotlib, Scikit-learn, SQLAlchemy, SQLite, REST APIs, BeautifulSoup, Selenium, Git & GitHub.
+
+📊 **Currently exploring:** Data Analysis, Machine Learning, AI engineering, backend development, API design, automation, and cloud deployment.
+
+🌱 **Learning goal:** Building a strong foundation in **AI/ML + Backend Engineering** and developing real-world projects that solve practical problems.
+
+💬 **Ask me about:** Python, Flask, FastAPI, REST APIs, data analysis, web scraping, automation, React, and full-stack development.
+
+⚡ **Fun fact:** I enjoy turning real-world problems into complete applications — from data processing and backend APIs to frontend dashboards and deployment.
+
 
 
 ## 🌐 Socials:
